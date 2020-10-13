@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-10-05T13:07:29.948-03:00
-  initializedAtString: 2020-10-05T13:07:29.948-03:00
+  lastUpdatedAtString: 2020-10-13T17:24:34.700-03:00
+  initializedAtString: 2020-10-13T17:24:34.700-03:00
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/pedro-n-garcez/u3dproject.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: 
+    name: main
+    tracking: origin/main
   currentConfigBranch:
-    name: master
+    name: main
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/pedro-n-garcez/u3dproject.git
+    trackingBranch: main
   currentConfigRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/pedro-n-garcez/u3dproject.git
   currentHead: 

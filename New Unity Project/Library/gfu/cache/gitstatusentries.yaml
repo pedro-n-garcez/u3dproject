@@ -13,486 +13,564 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-10-05T13:10:13.365-03:00
-  initializedAtString: 2020-10-05T13:07:30.182-03:00
+  lastUpdatedAtString: 2020-10-13T17:30:20.361-03:00
+  initializedAtString: 2020-10-13T17:24:34.814-03:00
   entries:
-  - path: Assets\New Animation.anim
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\New Animation.anim
-    projectPath: Assets\New Animation.anim
+  - path: New Unity Project\Assets\Materials.meta
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Materials.meta
+    projectPath: Assets\Materials.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\New Animation.anim.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\New Animation.anim.meta
-    projectPath: Assets\New Animation.anim.meta
+  - path: New Unity Project\Assets\Materials\grass.mat
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Materials\grass.mat
+    projectPath: Assets\Materials\grass.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins.meta
-    projectPath: Assets\Plugins.meta
+  - path: New Unity Project\Assets\Materials\grass.mat.meta
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Materials\grass.mat.meta
+    projectPath: Assets\Materials\grass.mat.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins\GitHub.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub.meta
-    projectPath: Assets\Plugins\GitHub.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor.meta
-    projectPath: Assets\Plugins\GitHub\Editor.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\credits.txt
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\credits.txt
-    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\credits.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\eula.txt
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\eula.txt
-    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\eula.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.bundle
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.so
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\sfw.net.dll
-    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\System.Threading.dll
-    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\x64.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\x86.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\scene.unity
+  - path: New Unity Project\Assets\scene.unity
     fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\scene.unity
     projectPath: Assets\scene.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\scene.unity.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\scene.unity.meta
-    projectPath: Assets\scene.unity.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Assets\Textures.meta
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Textures.meta
+    projectPath: Assets\Textures.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Sphere.controller
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Sphere.controller
-    projectPath: Assets\Sphere.controller
+  - path: New Unity Project\Assets\Textures\brown_mud_leaves_01_AO_4k.jpg
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Textures\brown_mud_leaves_01_AO_4k.jpg
+    projectPath: Assets\Textures\brown_mud_leaves_01_AO_4k.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Sphere.controller.meta
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Sphere.controller.meta
-    projectPath: Assets\Sphere.controller.meta
+  - path: New Unity Project\Assets\Textures\brown_mud_leaves_01_AO_4k.jpg.meta
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Textures\brown_mud_leaves_01_AO_4k.jpg.meta
+    projectPath: Assets\Textures\brown_mud_leaves_01_AO_4k.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Packages\manifest.json
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Packages\manifest.json
-    projectPath: Packages\manifest.json
+  - path: New Unity Project\Assets\Textures\brown_mud_leaves_01_diff_4k.jpg
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Textures\brown_mud_leaves_01_diff_4k.jpg
+    projectPath: Assets\Textures\brown_mud_leaves_01_diff_4k.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Packages\packages-lock.json
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Packages\packages-lock.json
-    projectPath: Packages\packages-lock.json
+  - path: New Unity Project\Assets\Textures\brown_mud_leaves_01_diff_4k.jpg.meta
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Textures\brown_mud_leaves_01_diff_4k.jpg.meta
+    projectPath: Assets\Textures\brown_mud_leaves_01_diff_4k.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\AudioManager.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\AudioManager.asset
-    projectPath: ProjectSettings\AudioManager.asset
+  - path: New Unity Project\Assets\Textures\brown_mud_leaves_01_disp_4k.jpg
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Textures\brown_mud_leaves_01_disp_4k.jpg
+    projectPath: Assets\Textures\brown_mud_leaves_01_disp_4k.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\ClusterInputManager.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\ClusterInputManager.asset
-    projectPath: ProjectSettings\ClusterInputManager.asset
+  - path: New Unity Project\Assets\Textures\brown_mud_leaves_01_disp_4k.jpg.meta
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Textures\brown_mud_leaves_01_disp_4k.jpg.meta
+    projectPath: Assets\Textures\brown_mud_leaves_01_disp_4k.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\DynamicsManager.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\DynamicsManager.asset
-    projectPath: ProjectSettings\DynamicsManager.asset
+  - path: New Unity Project\Assets\Textures\brown_mud_leaves_01_Nor_4k.jpg
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Textures\brown_mud_leaves_01_Nor_4k.jpg
+    projectPath: Assets\Textures\brown_mud_leaves_01_Nor_4k.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
+  - path: New Unity Project\Assets\Textures\brown_mud_leaves_01_Nor_4k.jpg.meta
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Textures\brown_mud_leaves_01_Nor_4k.jpg.meta
+    projectPath: Assets\Textures\brown_mud_leaves_01_Nor_4k.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\EditorSettings.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\EditorSettings.asset
-    projectPath: ProjectSettings\EditorSettings.asset
+  - path: New Unity Project\Assets\Textures\brown_mud_leaves_01_rough_4k.jpg
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Textures\brown_mud_leaves_01_rough_4k.jpg
+    projectPath: Assets\Textures\brown_mud_leaves_01_rough_4k.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\GraphicsSettings.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\GraphicsSettings.asset
-    projectPath: ProjectSettings\GraphicsSettings.asset
+  - path: New Unity Project\Assets\Textures\brown_mud_leaves_01_rough_4k.jpg.meta
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Assets\Textures\brown_mud_leaves_01_rough_4k.jpg.meta
+    projectPath: Assets\Textures\brown_mud_leaves_01_rough_4k.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\InputManager.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\InputManager.asset
-    projectPath: ProjectSettings\InputManager.asset
+  - path: New Unity Project\Library\ArtifactDB
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\Artifacts\01\01feb5291b296f91c6a5c729616f9148
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\01\01feb5291b296f91c6a5c729616f9148
+    projectPath: Library\Artifacts\01\01feb5291b296f91c6a5c729616f9148
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\NavMeshAreas.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\NavMeshAreas.asset
-    projectPath: ProjectSettings\NavMeshAreas.asset
+  - path: New Unity Project\Library\Artifacts\03\0388f8751b2f30303707db35a0cfb599
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\03\0388f8751b2f30303707db35a0cfb599
+    projectPath: Library\Artifacts\03\0388f8751b2f30303707db35a0cfb599
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\PackageManagerSettings.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\PackageManagerSettings.asset
-    projectPath: ProjectSettings\PackageManagerSettings.asset
+  - path: New Unity Project\Library\Artifacts\05\05ffbefff294eafcc241c85a6db61300
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\05\05ffbefff294eafcc241c85a6db61300
+    projectPath: Library\Artifacts\05\05ffbefff294eafcc241c85a6db61300
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\Physics2DSettings.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\Physics2DSettings.asset
-    projectPath: ProjectSettings\Physics2DSettings.asset
+  - path: New Unity Project\Library\Artifacts\09\093cf771e364a490b301ac7f27a824e9
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\09\093cf771e364a490b301ac7f27a824e9
+    projectPath: Library\Artifacts\09\093cf771e364a490b301ac7f27a824e9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\PresetManager.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\PresetManager.asset
-    projectPath: ProjectSettings\PresetManager.asset
+  - path: New Unity Project\Library\Artifacts\10\1054770ab184de33db95e0beef977158
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\10\1054770ab184de33db95e0beef977158
+    projectPath: Library\Artifacts\10\1054770ab184de33db95e0beef977158
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\ProjectSettings.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\ProjectSettings.asset
-    projectPath: ProjectSettings\ProjectSettings.asset
+  - path: New Unity Project\Library\Artifacts\18\184d7a2d63061898a1750db0d7531fbb
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\18\184d7a2d63061898a1750db0d7531fbb
+    projectPath: Library\Artifacts\18\184d7a2d63061898a1750db0d7531fbb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\ProjectVersion.txt
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
+  - path: New Unity Project\Library\Artifacts\1d\1def88ffb451baabd8974fab2dcb8e45
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\1d\1def88ffb451baabd8974fab2dcb8e45
+    projectPath: Library\Artifacts\1d\1def88ffb451baabd8974fab2dcb8e45
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
+  - path: New Unity Project\Library\Artifacts\21\213cc9982950517169c13791e603906b
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\21\213cc9982950517169c13791e603906b
+    projectPath: Library\Artifacts\21\213cc9982950517169c13791e603906b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\TagManager.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
+  - path: New Unity Project\Library\Artifacts\52\52d28419c59e80b2b5e6e88a130a1baf
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\52\52d28419c59e80b2b5e6e88a130a1baf
+    projectPath: Library\Artifacts\52\52d28419c59e80b2b5e6e88a130a1baf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\TimeManager.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\TimeManager.asset
-    projectPath: ProjectSettings\TimeManager.asset
+  - path: New Unity Project\Library\Artifacts\7e\7e00294e90e5b23459647c8374bfd86c
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\7e\7e00294e90e5b23459647c8374bfd86c
+    projectPath: Library\Artifacts\7e\7e00294e90e5b23459647c8374bfd86c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\UnityConnectSettings.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
+  - path: New Unity Project\Library\Artifacts\8c\8ce59f322818708f3a030d22b0cb135f
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\8c\8ce59f322818708f3a030d22b0cb135f
+    projectPath: Library\Artifacts\8c\8ce59f322818708f3a030d22b0cb135f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\VersionControlSettings.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\VersionControlSettings.asset
-    projectPath: ProjectSettings\VersionControlSettings.asset
+  - path: New Unity Project\Library\Artifacts\9a\9a48526ed48a7af822c9711de5c8495d
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\9a\9a48526ed48a7af822c9711de5c8495d
+    projectPath: Library\Artifacts\9a\9a48526ed48a7af822c9711de5c8495d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\VFXManager.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\VFXManager.asset
-    projectPath: ProjectSettings\VFXManager.asset
+  - path: New Unity Project\Library\Artifacts\a4\a46a113e9c3115dfa79c8e0f9525f9c7
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\a4\a46a113e9c3115dfa79c8e0f9525f9c7
+    projectPath: Library\Artifacts\a4\a46a113e9c3115dfa79c8e0f9525f9c7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings\XRSettings.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\ProjectSettings\XRSettings.asset
-    projectPath: ProjectSettings\XRSettings.asset
+  - path: New Unity Project\Library\Artifacts\ad\adacc4b5a42696f1c301358de34e54ee
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\ad\adacc4b5a42696f1c301358de34e54ee
+    projectPath: Library\Artifacts\ad\adacc4b5a42696f1c301358de34e54ee
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: UserSettings\EditorUserSettings.asset
-    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\UserSettings\EditorUserSettings.asset
-    projectPath: UserSettings\EditorUserSettings.asset
+  - path: New Unity Project\Library\Artifacts\b4\b49ee097328d2f09581129191e0d7fda
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\b4\b49ee097328d2f09581129191e0d7fda
+    projectPath: Library\Artifacts\b4\b49ee097328d2f09581129191e0d7fda
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\Artifacts\b6\b6ba8ea2186350c93c48c0f32a9148be
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\b6\b6ba8ea2186350c93c48c0f32a9148be
+    projectPath: Library\Artifacts\b6\b6ba8ea2186350c93c48c0f32a9148be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\Artifacts\cc\cc7b2eccd23659e9b99dcc5c77e97e37
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\cc\cc7b2eccd23659e9b99dcc5c77e97e37
+    projectPath: Library\Artifacts\cc\cc7b2eccd23659e9b99dcc5c77e97e37
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\Artifacts\d0\d00d2ca09f11e5df1c0b73cb8ac4c38b
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\d0\d00d2ca09f11e5df1c0b73cb8ac4c38b
+    projectPath: Library\Artifacts\d0\d00d2ca09f11e5df1c0b73cb8ac4c38b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\Artifacts\de\de3cb63548795e435b0697d24a956a54
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\de\de3cb63548795e435b0697d24a956a54
+    projectPath: Library\Artifacts\de\de3cb63548795e435b0697d24a956a54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\Artifacts\ee\ee487f76c4696aaea664f4207e077bf2
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\ee\ee487f76c4696aaea664f4207e077bf2
+    projectPath: Library\Artifacts\ee\ee487f76c4696aaea664f4207e077bf2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\Artifacts\ee\eeccfc8ac0a7ce73802a5025f48a37e7
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\ee\eeccfc8ac0a7ce73802a5025f48a37e7
+    projectPath: Library\Artifacts\ee\eeccfc8ac0a7ce73802a5025f48a37e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\Artifacts\f2\f20a73df76f77a4050c09c81d5d1f7a4
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\f2\f20a73df76f77a4050c09c81d5d1f7a4
+    projectPath: Library\Artifacts\f2\f20a73df76f77a4050c09c81d5d1f7a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\Artifacts\f2\f2d6cd06701dbe4e6f5699e731fe3a01
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\f2\f2d6cd06701dbe4e6f5699e731fe3a01
+    projectPath: Library\Artifacts\f2\f2d6cd06701dbe4e6f5699e731fe3a01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\Artifacts\f3\f3ebbabc14cd88589ae0aa606c1a27a0
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\Artifacts\f3\f3ebbabc14cd88589ae0aa606c1a27a0
+    projectPath: Library\Artifacts\f3\f3ebbabc14cd88589ae0aa606c1a27a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\EditorInstance.json
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\InspectorExpandedItems.asset
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\SceneVisibilityState.asset
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ShaderCache\0\0004c0c8e9434f9b6de5801031015247.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\0\0004c0c8e9434f9b6de5801031015247.bin
+    projectPath: Library\ShaderCache\0\0004c0c8e9434f9b6de5801031015247.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\0\04c100d5343d6ae578e8921379725b87.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\0\04c100d5343d6ae578e8921379725b87.bin
+    projectPath: Library\ShaderCache\0\04c100d5343d6ae578e8921379725b87.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\0\09dc433b1f30d5d7f5cf8d596e1ce26b.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\0\09dc433b1f30d5d7f5cf8d596e1ce26b.bin
+    projectPath: Library\ShaderCache\0\09dc433b1f30d5d7f5cf8d596e1ce26b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\0\0c5d0cf6275ea32d247808b7e5855f5b.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\0\0c5d0cf6275ea32d247808b7e5855f5b.bin
+    projectPath: Library\ShaderCache\0\0c5d0cf6275ea32d247808b7e5855f5b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\0\0c676a36d619fc07715642b027619394.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\0\0c676a36d619fc07715642b027619394.bin
+    projectPath: Library\ShaderCache\0\0c676a36d619fc07715642b027619394.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\0\0d402fa778af306b87a4bb120086d939.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\0\0d402fa778af306b87a4bb120086d939.bin
+    projectPath: Library\ShaderCache\0\0d402fa778af306b87a4bb120086d939.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\1\1bf918bc44dcd373d2a792f0cc725966.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\1\1bf918bc44dcd373d2a792f0cc725966.bin
+    projectPath: Library\ShaderCache\1\1bf918bc44dcd373d2a792f0cc725966.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\2\27df5dd934a9bc03e435d0db9b0f466b.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\2\27df5dd934a9bc03e435d0db9b0f466b.bin
+    projectPath: Library\ShaderCache\2\27df5dd934a9bc03e435d0db9b0f466b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\2\2981946881c4a6840488ad26c0b04f62.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\2\2981946881c4a6840488ad26c0b04f62.bin
+    projectPath: Library\ShaderCache\2\2981946881c4a6840488ad26c0b04f62.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\2\2c9a8c58e4516cc986993fdcf1e345c5.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\2\2c9a8c58e4516cc986993fdcf1e345c5.bin
+    projectPath: Library\ShaderCache\2\2c9a8c58e4516cc986993fdcf1e345c5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\2\2e2305c2dafb28a026cdd73542935318.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\2\2e2305c2dafb28a026cdd73542935318.bin
+    projectPath: Library\ShaderCache\2\2e2305c2dafb28a026cdd73542935318.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\3\374107e6b35dddbd65c45a8acd45e1bb.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\3\374107e6b35dddbd65c45a8acd45e1bb.bin
+    projectPath: Library\ShaderCache\3\374107e6b35dddbd65c45a8acd45e1bb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\3\37d622fe87d306c82b5c66a3a2da6e87.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\3\37d622fe87d306c82b5c66a3a2da6e87.bin
+    projectPath: Library\ShaderCache\3\37d622fe87d306c82b5c66a3a2da6e87.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\4\437060406a7162910c025fabef87e8e3.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\4\437060406a7162910c025fabef87e8e3.bin
+    projectPath: Library\ShaderCache\4\437060406a7162910c025fabef87e8e3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\4\4f4e23c3e8ea84690a51e4d3de41ea95.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\4\4f4e23c3e8ea84690a51e4d3de41ea95.bin
+    projectPath: Library\ShaderCache\4\4f4e23c3e8ea84690a51e4d3de41ea95.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\5\566d5a0a27d1d7647bcdaeaf09ba2fac.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\5\566d5a0a27d1d7647bcdaeaf09ba2fac.bin
+    projectPath: Library\ShaderCache\5\566d5a0a27d1d7647bcdaeaf09ba2fac.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\6\64d9076c83feae2e26edc5d1e385ce4b.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\6\64d9076c83feae2e26edc5d1e385ce4b.bin
+    projectPath: Library\ShaderCache\6\64d9076c83feae2e26edc5d1e385ce4b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\7\7ef7313ad5545cf06c38af3adc2f616a.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\7\7ef7313ad5545cf06c38af3adc2f616a.bin
+    projectPath: Library\ShaderCache\7\7ef7313ad5545cf06c38af3adc2f616a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\8\814b912b25f70b32515534600396381f.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\8\814b912b25f70b32515534600396381f.bin
+    projectPath: Library\ShaderCache\8\814b912b25f70b32515534600396381f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\8\83173737132a1b031a42bb5b64205133.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\8\83173737132a1b031a42bb5b64205133.bin
+    projectPath: Library\ShaderCache\8\83173737132a1b031a42bb5b64205133.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\8\8b18f47ce9b911e65616abc7d5cd721d.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\8\8b18f47ce9b911e65616abc7d5cd721d.bin
+    projectPath: Library\ShaderCache\8\8b18f47ce9b911e65616abc7d5cd721d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\9\99f566b916cbdd16e5f6b176edfe6080.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\9\99f566b916cbdd16e5f6b176edfe6080.bin
+    projectPath: Library\ShaderCache\9\99f566b916cbdd16e5f6b176edfe6080.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\a\a46bc1ead42888cd370c7cf8acb2745b.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\a\a46bc1ead42888cd370c7cf8acb2745b.bin
+    projectPath: Library\ShaderCache\a\a46bc1ead42888cd370c7cf8acb2745b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\a\add384d392be9eaa52431a43ac217fdc.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\a\add384d392be9eaa52431a43ac217fdc.bin
+    projectPath: Library\ShaderCache\a\add384d392be9eaa52431a43ac217fdc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\b\b2cf6888692f6bc917eb6b9173bbf0d8.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\b\b2cf6888692f6bc917eb6b9173bbf0d8.bin
+    projectPath: Library\ShaderCache\b\b2cf6888692f6bc917eb6b9173bbf0d8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\b\b4f814837d4dd47a0a9c57ffe869bcfb.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\b\b4f814837d4dd47a0a9c57ffe869bcfb.bin
+    projectPath: Library\ShaderCache\b\b4f814837d4dd47a0a9c57ffe869bcfb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\b\b658d82fd03d0c3f7d627fc530689465.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\b\b658d82fd03d0c3f7d627fc530689465.bin
+    projectPath: Library\ShaderCache\b\b658d82fd03d0c3f7d627fc530689465.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\b\b6a774ef5ac6a311aa127a1f47b183a1.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\b\b6a774ef5ac6a311aa127a1f47b183a1.bin
+    projectPath: Library\ShaderCache\b\b6a774ef5ac6a311aa127a1f47b183a1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\c\c133b73d9392892b4385291e3a654da6.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\c\c133b73d9392892b4385291e3a654da6.bin
+    projectPath: Library\ShaderCache\c\c133b73d9392892b4385291e3a654da6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\c\c2afdb0fc4359efe0b2664e1632261a4.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\c\c2afdb0fc4359efe0b2664e1632261a4.bin
+    projectPath: Library\ShaderCache\c\c2afdb0fc4359efe0b2664e1632261a4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\c\c33a9dfe98f7ffb4b97010ea085f197e.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\c\c33a9dfe98f7ffb4b97010ea085f197e.bin
+    projectPath: Library\ShaderCache\c\c33a9dfe98f7ffb4b97010ea085f197e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\c\c3e40ed80f588d5f11acd46fb8ae3f97.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\c\c3e40ed80f588d5f11acd46fb8ae3f97.bin
+    projectPath: Library\ShaderCache\c\c3e40ed80f588d5f11acd46fb8ae3f97.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\c\c885b41198bc544390d1a700d1dc1cbe.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\c\c885b41198bc544390d1a700d1dc1cbe.bin
+    projectPath: Library\ShaderCache\c\c885b41198bc544390d1a700d1dc1cbe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\d\d7946f06e353824e5dd42a3206d45646.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\d\d7946f06e353824e5dd42a3206d45646.bin
+    projectPath: Library\ShaderCache\d\d7946f06e353824e5dd42a3206d45646.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\d\db6e275ed14e5eecb5758bc8b24571b6.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\d\db6e275ed14e5eecb5758bc8b24571b6.bin
+    projectPath: Library\ShaderCache\d\db6e275ed14e5eecb5758bc8b24571b6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\d\df1086aacc6a025f6743d94fc44c306b.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\d\df1086aacc6a025f6743d94fc44c306b.bin
+    projectPath: Library\ShaderCache\d\df1086aacc6a025f6743d94fc44c306b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ShaderCache\f\f10efe977e3d0cd68d55148959e2c607.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\f\f10efe977e3d0cd68d55148959e2c607.bin
+    projectPath: Library\ShaderCache\f\f10efe977e3d0cd68d55148959e2c607.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\ShaderCache\f\fc6c306067edb0c88a6890d5b845ca47.bin
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\ShaderCache\f\fc6c306067edb0c88a6890d5b845ca47.bin
+    projectPath: Library\ShaderCache\f\fc6c306067edb0c88a6890d5b845ca47.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\SourceAssetDB
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+    projectPath: Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Temp\UnityLockfile
+    fullPath: C:\Stuff\col\MISC\c#\u3dproject\New Unity Project\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
